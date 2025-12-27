@@ -270,15 +270,15 @@ Visit: http://localhost:8000/
 
 We'll build in this order:
 1. ✅ Project setup
-2. ⏳ Models
-3. ⏳ Admin panel
-4. ⏳ Base UI layout
-5. ⏳ Equipment module
-6. ⏳ Maintenance module
-7. ⏳ Kanban board
-8. ⏳ Calendar view
-9. ⏳ Automation
-10. ⏳ Dashboard
+2. ✅ Models
+3. ✅ Admin panel
+4. ✅ Base UI layout
+5. ✅ Equipment module
+6. ✅ Maintenance module
+7. ✅ Kanban board
+8. ✅ Calendar view
+9. ✅ Automation
+10. ✅ Dashboard
 
 ---
 
